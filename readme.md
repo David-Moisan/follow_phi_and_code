@@ -1,4 +1,7 @@
-# Three.js Journey
+# Follow me @phi_and_code
+
+my first exercice after Three.js Journey by @BrunoSimon
+<a href="https://threejs-journey.com/">Three.js Journey</a>
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
